@@ -1,4 +1,4 @@
-# MyGit - A Lightweight Git Implementation
+# My Git Implementation
 
 A Python-based implementation of a subset of Git's core functionality. This project recreates fundamental Git operations including repository initialization, staging, committing, branching, and more.
 
